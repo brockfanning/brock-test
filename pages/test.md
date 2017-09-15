@@ -1,9 +1,8 @@
 ---
 title: My new page
 permalink: /test.html
-layout: base
+layout: landing
 ---
-<span class="usa-grid usa-content">
 
 This is my first paragraph.
 
@@ -32,5 +31,3 @@ Praesent suscipit felis eget orci egestas, tincidunt elementum eros porta. Nunc 
 Proin accumsan venenatis ullamcorper. Cras tellus felis, lacinia laoreet erat eget, convallis ullamcorper turpis. Phasellus at augue id sem rhoncus tincidunt. Ut eu erat diam. In a purus sit amet tellus convallis aliquet. Nam porta quis arcu eu interdum. Sed dolor nulla, venenatis nec ultrices vitae, posuere ac quam. Vivamus ut velit non ex pharetra porta. Nulla viverra tempus justo in volutpat. Duis gravida lacus at lacinia convallis. Vivamus ultricies urna a tincidunt placerat.
 
 Quisque sed sem in erat porta dapibus. Donec malesuada sapien purus, at viverra mi convallis volutpat. Etiam ac sodales arcu, vitae hendrerit leo. Vestibulum eu rhoncus risus, eu consectetur odio. Morbi tempor tempor urna, ut varius ante vehicula id. Cras interdum libero id sem feugiat, ut bibendum lacus vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras venenatis enim est, in dapibus augue consectetur ac. Sed vitae ultrices eros. Sed tellus leo, aliquet sit amet suscipit sit amet, suscipit id elit. Phasellus cursus nulla ullamcorper feugiat convallis.
-
-</span>
