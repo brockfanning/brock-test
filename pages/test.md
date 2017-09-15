@@ -1,6 +1,6 @@
 ---
 title: My new page
-permalink: /test.html
+permalink: /subfolder/test.html
 layout: landing
 ---
 
