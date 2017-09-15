@@ -3,6 +3,8 @@ title: My new page
 permalink: /test.html
 layout: base
 ---
+<div class="usa-grid usa-content">
+
 This is my first paragraph.
 
 This is my second paragraph.
@@ -31,3 +33,4 @@ Proin accumsan venenatis ullamcorper. Cras tellus felis, lacinia laoreet erat eg
 
 Quisque sed sem in erat porta dapibus. Donec malesuada sapien purus, at viverra mi convallis volutpat. Etiam ac sodales arcu, vitae hendrerit leo. Vestibulum eu rhoncus risus, eu consectetur odio. Morbi tempor tempor urna, ut varius ante vehicula id. Cras interdum libero id sem feugiat, ut bibendum lacus vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras venenatis enim est, in dapibus augue consectetur ac. Sed vitae ultrices eros. Sed tellus leo, aliquet sit amet suscipit sit amet, suscipit id elit. Phasellus cursus nulla ullamcorper feugiat convallis.
 
+</div>
